@@ -13,6 +13,7 @@
 <li><b>Name:</b> Gleb</li>
 <li><b>Age:</b> 16 </li>
 <li><b>Gender:</b> He/his.</li>
+  <li><b>I`m from:</b> Ukraine 🇺🇦</li>
 <li><b>I can understand:</b> Ukrainian, Russian, English</li>
 <li><b>Hobbys:</b> Coding on C#, developing games on Unity, watch anime and playing computer games.🎮</li>
 <li><b>Favourite PC game: </b> Valorant</li>
