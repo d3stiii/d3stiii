@@ -10,21 +10,13 @@
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 <div>
 <img src="https://64.media.tumblr.com/a82567c705b5b539faea5cde58b713a0/8bd05c1a7a681004-7c/s1280x1920/838f2ff2ed12602784b5730ac1b90cdfd7cc4596.gifv" align="right" width="400" >
-<li>
-<b>Name:</b> Gleb</li>
-  <li><b>Age:</b> 16 </li>
-<li>
-<b>Favourite Anime:</b> The Quintessential Quintuplets👰🏻
-</li>
-<li>
-<b>Gender:</b> He/his.
-</li>
-<li>
-<b>Hobbys:</b> Coding on C#, developing games on Unity, playing computer games.🎮
-</li>
-<li>
-  <b>Favourite PC game: </b> Valorant
-</li>
+<li><b>Name:</b> Gleb</li>
+<li><b>Age:</b> 16 </li>
+<li><b>Gender:</b> He/his.</li>
+<li><b>I can understand:</b> Ukrainian, Russian, English</li>
+<li><b>Hobbys:</b> Coding on C#, developing games on Unity, watch anime and playing computer games.🎮</li>
+<li><b>Favourite PC game: </b> Valorant</li>
+<li><b>Favourite Anime:</b> The Quintessential Quintuplets👰🏻</li>
 <br>
 </div>
 <br>
