@@ -1,7 +1,7 @@
 
 # 👋 Hi! My name is Gleb
 
-I’m a student of the Kharkiv National University of Radio Electronics.
+I’m a student of the Kharkiv National University of Radioelectronics.
 
 - 👀 Also know as dest1
 - 💞️ I like making games on Unity
