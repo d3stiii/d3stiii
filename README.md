@@ -3,7 +3,7 @@
 
 I’m a student of the Kharkiv National University of Radio Electronics.
 
-- 👀 Also know as dest1 or dream
+- 👀 Also know as dest1
 - 💞️ I like making games on Unity
 - 📫 How to reach me: (Discord: dest1), (Telegram: https://t.me/d3stiii)
 
