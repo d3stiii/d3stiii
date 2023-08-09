@@ -11,7 +11,6 @@
 <p align="left">
 <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 <img src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </p>
 
 ### My projects
