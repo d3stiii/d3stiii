@@ -1,9 +1,9 @@
 
 # 👋 Hi!
 
-- 🎓 I’m a student of the Kharkiv National University of Radioelectronics.
+- 🎓 I’m a student of the Kharkiv National University of Radioelectronics
 - 💞️ I like making games with Unity
-- 📫 How to reach me: (Discord: dest1), (Telegram: https://t.me/d3stiii)
+- 📫 (Discord: dest1), (Telegram: https://t.me/d3stiii)
 
 ### My projects
 
