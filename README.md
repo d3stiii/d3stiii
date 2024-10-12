@@ -1,7 +1,7 @@
 ### About me
 - 🎓 I’m a student of the Kharkiv National University of Radioelectronics
 - 🎮 Unity developer
-- 📫 (Discord: dest1), (Telegram: https://t.me/d3stiii)
+- 📫 (Discord: d3stiii), (Telegram: https://t.me/d3stiii)
 
 ### My projects
 
